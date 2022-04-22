@@ -18,12 +18,12 @@ font-awesome-icon-logo:
 
 # Social settings
 github_username: kayla-jackson
-twitter_username: andrewbanchich
-facebook_URL: andrewbanchich
-instagram_username: andrewbanchich
-dribbble_username: andrewbanchich
-500px_username: andrewbanchich
-phone: 555-5555
+#twitter_username: andrewbanchich
+#facebook_URL: andrewbanchich
+#instagram_username: andrewbanchich
+#dribbble_username: andrewbanchich
+#500px_username:
+#phone: 555-5555
 
 # Build settings
 markdown: kramdown
